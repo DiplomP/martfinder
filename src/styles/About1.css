@@ -1,0 +1,18 @@
+td {
+	border: 3px solid black;
+	width: 280px;
+	height: 60px;
+	text-align: center;
+	
+}
+
+tr {
+	color: black;
+	
+}
+
+table {
+	padding-bottom: 100px;
+	padding-top: 10px;
+	
+}
