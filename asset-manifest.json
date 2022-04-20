@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/martfinder/static/css/main.7db016e6.css",
+    "main.js": "/martfinder/static/js/main.3f7e7e4f.js",
+    "static/js/787.1e90b363.chunk.js": "/martfinder/static/js/787.1e90b363.chunk.js",
+    "static/media/expensive.jpg": "/martfinder/static/media/expensive.f9d31d8d4d4eee57e2fd.jpg",
+    "static/media/margherita.jpg": "/martfinder/static/media/margherita.d763f4d1ab0f2854295d.jpg",
+    "static/media/pineapple.jpg": "/martfinder/static/media/pineapple.3d5623708fcc848b2c69.jpg",
+    "static/media/pizza.jpeg": "/martfinder/static/media/pizza.b9fd8450483b37b441a5.jpeg",
+    "static/media/pepperoni.jpg": "/martfinder/static/media/pepperoni.a5bd7b92a729d5812713.jpg",
+    "static/media/vegan.jpg": "/martfinder/static/media/vegan.35cd179008a0b9dc1b50.jpg",
+    "static/media/Twix.jpg": "/martfinder/static/media/Twix.42e969b27d3ecde8ae04.jpg",
+    "static/media/bounty.jpg": "/martfinder/static/media/bounty.46f7e457e769679fb0e2.jpg",
+    "static/media/Mars.jpg": "/martfinder/static/media/Mars.b4de6bdcb1cfa685f642.jpg",
+    "static/media/pizzaLogo.png": "/martfinder/static/media/pizzaLogo.fc148eb2468f9ea7d137.png",
+    "static/media/Kitkat.jpg": "/martfinder/static/media/Kitkat.5657fd0832e9b543e42b.jpg",
+    "static/media/pedrotechspecial.jpg": "/martfinder/static/media/pedrotechspecial.4bbaad12b311f5587956.jpg",
+    "static/media/M&M.jpg": "/martfinder/static/media/M&M.5762941294c2971609a4.jpg",
+    "index.html": "/martfinder/index.html",
+    "main.7db016e6.css.map": "/martfinder/static/css/main.7db016e6.css.map",
+    "main.3f7e7e4f.js.map": "/martfinder/static/js/main.3f7e7e4f.js.map",
+    "787.1e90b363.chunk.js.map": "/martfinder/static/js/787.1e90b363.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7db016e6.css",
+    "static/js/main.3f7e7e4f.js"
+  ]
+}
