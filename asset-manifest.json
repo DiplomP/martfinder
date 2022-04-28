@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/martfinder/static/css/main.7db016e6.css",
+    "main.css": "/martfinder/static/css/main.71694b48.css",
     "main.js": "/martfinder/static/js/main.3f7e7e4f.js",
     "static/js/787.1e90b363.chunk.js": "/martfinder/static/js/787.1e90b363.chunk.js",
     "static/media/expensive.jpg": "/martfinder/static/media/expensive.f9d31d8d4d4eee57e2fd.jpg",
@@ -17,12 +17,12 @@
     "static/media/pedrotechspecial.jpg": "/martfinder/static/media/pedrotechspecial.4bbaad12b311f5587956.jpg",
     "static/media/M&M.jpg": "/martfinder/static/media/M&M.5762941294c2971609a4.jpg",
     "index.html": "/martfinder/index.html",
-    "main.7db016e6.css.map": "/martfinder/static/css/main.7db016e6.css.map",
+    "main.71694b48.css.map": "/martfinder/static/css/main.71694b48.css.map",
     "main.3f7e7e4f.js.map": "/martfinder/static/js/main.3f7e7e4f.js.map",
     "787.1e90b363.chunk.js.map": "/martfinder/static/js/787.1e90b363.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7db016e6.css",
+    "static/css/main.71694b48.css",
     "static/js/main.3f7e7e4f.js"
   ]
 }
